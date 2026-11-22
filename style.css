@@ -3,3 +3,5 @@
 .playbar{display:flex;align-items:center;gap:12px;background:#203d30;color:#fff;padding:12px 16px;font-size:.8rem}.playbar button{border:1px solid #d8c995;background:transparent;color:white;padding:9px 14px;border-radius:4px;white-space:nowrap}.playbar input{flex:1;min-width:30px;accent-color:#d8c995}.playbar label{white-space:nowrap}@media(max-width:500px){.playbar{flex-wrap:wrap}.playbar label{display:none}}
 
 .leaflet-tooltip.pin-date{background:#fffdf0;color:#203d30;border:0;border-radius:3px;font-weight:700;font-size:11px;box-shadow:0 1px 4px #0006;padding:3px 5px}.leaflet-tooltip.pin-date:before{border-top-color:#fffdf0}
+
+.map-story strong,.map-story small{display:block}.map-story strong{font:600 17px 'Playfair Display',serif;margin:5px 0}.map-story small{color:#66746a}.map-story p{font-size:12px;line-height:1.45;margin:7px 0 0}.leaflet-popup-content{margin:13px 16px}.leaflet-popup-content-wrapper{border-radius:5px}
